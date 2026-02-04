@@ -18,7 +18,7 @@ npx apidroid@latest
 
 ## API endpointy
 
-- **/api/todos** - seznam psů
-- **/api/todos/1** - detail psa
+- **/api/todos** - seznam úkolů
+- **/api/todos/1** - detail úkolu
 
 Lze provádět dotazy GET, POST, PUT, PATCH, DELETE.
